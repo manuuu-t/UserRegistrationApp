@@ -1,5 +1,10 @@
 User Registration Application
+
 <img width="903" height="869" alt="user" src="https://github.com/user-attachments/assets/e4e92aa9-99d7-416f-b77d-a9b008990d23" />
+
+<img width="1787" height="938" alt="success" src="https://github.com/user-attachments/assets/81dcc4ce-7daf-4f52-b0be-768b57852b01" />
+
+
 This is a full-stack User Registration System built using:
 - Angular (Frontend)
 - ASP.NET Core Web API (Backend)
